@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">OpenClassroom_MediatorLiveDataExample</string>
+    <string name="random">Random !</string>
+    <string name="x2">x2</string>
+    <string name="plus1">+1</string>
+</resources>
