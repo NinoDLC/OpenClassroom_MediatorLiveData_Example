@@ -1,4 +1,4 @@
-# OpenClassroom - MediatorLiveDataExample
+# OpenClassroom - MediatorLiveData - Example
 Ce projet permet d'avoir un exemple d'une application **Android** écrite en **Java** avec une architecture **MVVM** simple, utilisant des
 `LiveData`. Des **tests unitaires** et des **tests d'intégration** sont présents, utilisant respectivement `Mockito` et `Espresso` comme framework.
 
