@@ -16,8 +16,8 @@ public class RandomRepository {
     private final MutableLiveData<Integer> randomNumberLiveData = new MutableLiveData<>();
 
     public RandomRepository() {
-        // On donne une valeur initiale à la LiveData
-        randomNumberLiveData.setValue(1);
+        // On peut donner une valeur initiale à la LiveData si besoin (uncomment)
+        // randomNumberLiveData.setValue(1);
     }
 
     // On récupère la LiveData qui représente un nombre. Contrairement à l'autre repository, cette LiveData va avoir une valeur initiale
